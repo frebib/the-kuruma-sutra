@@ -27,6 +27,7 @@
 ## Setup 4: Wet work
 ### Team 1: Assasinate ~~~~~ 
 * 
+
 ### Team 2: Steal briefcase
 * Both take sniper aim on rooftop, kill both in sync
 * Driver take Karuma round to briefcase
