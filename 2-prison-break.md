@@ -11,9 +11,18 @@
 * Wait until cops are gone.
 * Deliver bus to location.
 
-## Setup 3: 
+## Setup 3: Station
+### Team 1: Police Station
+* Hide somewhere undercover and out of the way, call 911
+* Kill police when they arrive
+* Steal cop car, hide in the sewers until they lose you
+* Finish setup as normal
+### Team 2: Steal Car
+* Drive to docks
+* One player climb to top of second crane
+* Parachute off to top off boat then to ship (parachute provided from top of crane)
+* Trigger cutscene (other player is teleported over automatically)
+* Steal car and drive away
 
-## Setup 4: 
-
-## Setup 5: 
+## Setup 4: Wet work
 
