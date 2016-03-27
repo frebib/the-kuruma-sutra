@@ -1,8 +1,13 @@
 # Heist 2: The Prison Break
 ## Setup 1: Plane
-* Take 4 Karumas up the eastern highway to McKensie airfield
-* 3 people clear runway & vagos - good shooters, armoured
-* 1 person steals the Velum - very good pilot
+* Pilot - needs to be good at fighting
+* Ground Team - Have lots of armour plus Karumas
+* Take up to 4 Karumas up the eastern highway to McKensie airfield - don't follow yellow line, turn off [here](insertscreenshot.here)
+* Ground Team and Pilot clear first wave of Vagos
+* Prioritize people around hangar to clear path for pilot
+* On audio cue ("Vagos cellphone going loco!") to signify next wave, Pilot gets to the Velum. Ground team clears runway
+* Pilot steals the Velum
+* Ground Team clean up rest of Vagos, and leave area.
 
 ## Setup 2: Bus
 * Take 4 karumas up eastern highway
@@ -29,8 +34,10 @@
 * 
 
 ### Team 2: Steal briefcase
+* Drive to objective, park 
 * Both take sniper aim on rooftop, kill both in sync
 * Driver take Karuma round to briefcase
 * Passenger get out, collect case and get back in
 * Drive to shopping centre underground carpark and hide from police
 * Return briefcase to planning room when police are gone.
+-
