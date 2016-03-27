@@ -25,4 +25,11 @@
 * Steal car and drive away
 
 ## Setup 4: Wet work
-
+### Team 1: Assasinate ~~~~~ 
+* 
+### Team 2: Steal briefcase
+* Both take sniper aim on rooftop, kill both in sync
+* Driver take Karuma round to briefcase
+* Passenger get out, collect case and get back in
+* Drive to shopping centre underground carpark and hide from police
+* Return briefcase to planning room when police are gone.
