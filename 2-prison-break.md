@@ -35,7 +35,7 @@
 * Note: Although the voiceover says damage matters, it does not not. Justy don't get a wanted level!
 
 ## Setup 4: Wet work
-### Team 1: Assasinate ~~~~~ 
+### Team 1: Assasinate Popov
 * Take a fast car to the waypoint.
 * Go slightly down the road, and climb over the wall [here](##ss##)
 * Follow the path until you reach the steps [screenshots](##ss##)
