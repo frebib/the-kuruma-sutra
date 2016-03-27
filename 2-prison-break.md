@@ -10,12 +10,12 @@
 * Ground Team clean up rest of Vagos, and leave area.
 
 ## Setup 2: Bus
-* Take 4 karumas up eastern highway
+* Take 4 Karumas up eastern highway
 * Block off bridge near Sandy Shores, wait for bus
 * While waiting, kill helicopter following bus
 * Kill bus driver, person with good armour get in bus, rest stay in Karumas
-* Take bus offroad to windfarm [screenshot here](insertscreenshot.here)
-* Wait until cops are gone. May have to drive around a little to avoid sightlines.
+* Take bus off-road to wind farm [screenshot here](##ss##)
+* Wait until cops are gone. May have to drive around a little to avoid sight lines.
 * Deliver bus to location.
 
 ## Setup 3: Station
@@ -24,6 +24,7 @@
 * Kill police when they arrive
 * Steal cop car, hide in the sewers until they lose you
 * Finish setup as normal
+
 ### Team 2: Steal Car
 * Drive to docks
 * One player climb to top of second crane ##SS##
@@ -40,7 +41,7 @@
 * Follow the path until you reach the steps [screenshots](##ss##)
 * Throw a sticky bomb onto the van
 * This will alert the guards, making Popov run. Retracer your steps and climb over the wall
-*Wait for Popov to get into the van - his red icon will stop moving on the map as he gets in
+* Wait for Popov to get into the van - his red icon will stop moving on the map as he gets in
 * When he is in the van detonate the sticky bomb
 * Kaboom! Leave the area
 
