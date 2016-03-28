@@ -14,7 +14,7 @@
 * Take the boat under the bridge, and up the river back to the Karumas
 * DO NOT beach the boat – if it explodes, it will fail you. 
 * Take the karumas (3 + avi in one, one in the other up the river-side, follow the yellow route until you get near to the farms
-* As soon as your objective changes to lose the cops, divert up the mountain.
+* As soon as your objective changes to lose the cops (at about 0.68 miles from target), divert up the mountain. [screenshot](url)
 * The car without Avi in stays lower down the mountain, and shoot down helis.
 * Avi car stays up top until lose wanted level
 * Drive to waypoint to finish.
@@ -83,5 +83,10 @@
 * Kill all police and continue round corner
 * Destroy police car that rushes in and two sitting on road
 * All cross. One player watch back for car that appears after crossing road
-* Merc last car at end of alley.
-* One player 
+* Merc last car at end of alley
+* One player needs to clear the car that spawns behind after crossing
+* There is a chance for two cops to spawn around the house by the bikes.
+* Resupply armour, take bikes round left into the next corner.
+* Climb the bank, over the hedge & into the appartment
+* All move into the garage, into the Kuruma
+* Follow the western highway up to the boat and take out to sea
