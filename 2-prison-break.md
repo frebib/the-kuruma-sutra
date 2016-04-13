@@ -4,7 +4,9 @@ This heist can be a pain in the ass, if done the intended route. However the set
 ## Setup 1: Plane
 ### Setup
 **Pilot** - Needs to be good at flying, have reasonable armor and health - likely to take a few hits
+
 **Ground Team** - Should be semi-decent at combat, AP Pistol or Micro SMG suggested
+
 *Cars* - Minimum of 1 Karuma, 3 to 4 Karumas preferred.
 
 
@@ -24,8 +26,10 @@ This heist can be a pain in the ass, if done the intended route. However the set
 ## Setup 2: Bus
 ### Setup
 **Bus Driver** - One player needs to actually drive the bus. They should have good armor, they WILL be shot! :)
+
 **Rocket Man** - One player needs to have a rocket launcher or sniper rifle to take down a helicopter
-*Cars* - As many Karumas as possible! Those without should ride along in other Karumas
+
+*Cars:* As many Karumas as possible! Those without should ride along in other Karumas
 
 
 ###The Mission
