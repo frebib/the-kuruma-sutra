@@ -1,35 +1,42 @@
 # Heist 2: The Prison Break
+This heist can be a pain in the ass, if done the intended route. However the setups for it are reasonably easy and with a bit of practice this heist will become one of the easiest.
+
 ## Setup 1: Plane
-### Roles
-* **Pilot** - Needs to be good at flying, have reasonable armor and health - likely to take a few hits
-* **Ground Team** - Should be semi-decent at combat, AP Pistol or Micro SMG suggested
-* *Cars* - Minimum of 1 Karuma, 3 to 4 Karumas preferred.
+### Setup
+**Pilot** - Needs to be good at flying, have reasonable armor and health - likely to take a few hits
+**Ground Team** - Should be semi-decent at combat, AP Pistol or Micro SMG suggested
+*Cars* - Minimum of 1 Karuma, 3 to 4 Karumas preferred.
 
 
 ###The Mission
-* Take up to 4 Karumas up the eastern highway to McKensie airfield - see fastest route [here](##ss##)
-* Put on your mask, and start shooting Vagos.
-* Prioritize people around hangar to clear path for pilot - by the sides of hangar and containers opposite the hangar are good areas
-* Pilot gets to the Velum when clear as possible - this should be before second wave of cars
-* While Pilot gets in to Velum and starts taxiing, ground team clear the runway of cars - ram them with Karumas to clear the runway
-* As soon as the runway is clear, pilot should take off. Take the plane to LSI as instructed, you will not encounter any more resistance.
-* Ground Team should now simply kill the rest of the Vagos. To speed this up, try and intercept them as they drive down the roads towards the runway.
-* The last Vago car will spawn on the bridge near the hangar, try to have someone nearby to speed things up
-* When all Vagos have gone leave area. Head towards Sandy Shores to pick up more armor if it is required.
+1. Take up to 4 Karumas up the eastern highway to McKensie airfield - see fastest route [here](##ss##)
+2. Put on your mask, and start shooting Vagos.
+3. Prioritize people around hangar to clear path for pilot - by the sides of hangar and containers opposite the hangar are good areas
+4. Pilot gets to the Velum when clear as possible - this should be before second wave of cars
+5. While Pilot gets in to Velum and starts taxiing, ground team clear the runway of cars - ram them with Karumas to clear the runway
+6. As soon as the runway is clear, pilot should take off. Take the plane to LSI as instructed, you will not encounter any more resistance.
+7. Ground Team should now simply kill the rest of the Vagos. To speed this up, try and intercept them as they drive down the roads towards the runway.
+8. The last Vago car will spawn on the bridge near the hangar, try to have someone nearby to speed things up
+9. When all Vagos have gone leave area. Head towards Sandy Shores to pick up more armor if it is required.
 
 
-
-
-##WIP \/ \/
 
 ## Setup 2: Bus
-* Take 4 Karumas up eastern highway
-* Block off bridge near Sandy Shores, wait for bus
-* While waiting, kill helicopter following bus
-* Kill bus driver, person with good armour get in bus, rest stay in Karumas
-* Take bus off-road to wind farm [screenshot here](##ss##)
-* Wait until cops are gone. May have to drive around a little to avoid sight lines.
-* Deliver bus to location.
+### Setup
+**Bus Driver** - One player needs to actually drive the bus. They should have good armor, they WILL be shot! :)
+**Rocket Man** - One player needs to have a rocket launcher or sniper rifle to take down a helicopter
+*Cars* - As many Karumas as possible! Those without should ride along in other Karumas
+
+
+###The Mission
+1. Take the Karumas up the eastern highway to the bridge near Sandy Shores
+2. Set up at least one Karuma at the end of the bridge closest to the windfarm
+3. While waiting for the bus to arrive, the Rocket Man should shoot down the helicopter. Get back in your Karuma ASAP - you will start being shot!
+4. When the bus arrives, take out the driver. The Bus Driver should get into the bus.
+5. Drive up towards the wind farm. [Screenshot](##ss##)
+6. Drive up the slope and move around the hill if needed. It should be easy enough to hide without moving though. [Screenshot](##ss##)
+7. When everyone has lost the cops drive to the indicated marker. Watch out for any cop cars around, crashing into them will cause issues!
+
 
 ## Setup 3: Station
 ### Team 1: Police Station
