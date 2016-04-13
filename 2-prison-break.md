@@ -1,13 +1,26 @@
 # Heist 2: The Prison Break
 ## Setup 1: Plane
-* Pilot - needs to be good at fighting
-* Ground Team - Have lots of armour plus Karumas
-* Take up to 4 Karumas up the eastern highway to McKensie airfield - don't follow yellow line, turn off [here](insertscreenshot.here)
-* Ground Team and Pilot clear first wave of Vagos
-* Prioritize people around hangar to clear path for pilot
-* On audio cue ("Vagos cellphone going loco!") to signify next wave, Pilot gets to the Velum. Ground team clears runway
-* Pilot steals the Velum
-* Ground Team clean up rest of Vagos, and leave area.
+### Roles
+**Pilot** - Needs to be good at flying, have reasonable armor and health - likely to take a few hits
+**Ground Team** - Should be semi-decent at combat, AP Pistol or Micro SMG suggested
+*Cars* - Minimum of 1 Karuma, 3 to 4 Karumas preferred.
+
+
+###The Mission
+* Take up to 4 Karumas up the eastern highway to McKensie airfield - see fastest route [here](##ss##)
+* Put on your mask, and start shooting Vagos.
+* Prioritize people around hangar to clear path for pilot - by the sides of hangar and containers opposite the hangar are good areas
+* Pilot gets to the Velum when clear as possible - this should be before second wave of cars
+* While Pilot gets in to Velum and starts taxiing, ground team clear the runway of cars - ram them with Karumas to clear the runway
+* As soon as the runway is clear, pilot should take off. Take the plane to LSI as instructed, you will not encounter any more resistance.
+* Ground Team should now simply kill the rest of the Vagos. To speed this up, try and intercept them as they drive down the roads towards the runway.
+* The last Vago car will spawn on the bridge near the hangar, try to have someone nearby to speed things up
+* When all Vagos have gone leave area. Head towards Sandy Shores to pick up more armor if it is required.
+
+
+
+
+##WIP \/ \/
 
 ## Setup 2: Bus
 * Take 4 Karumas up eastern highway
@@ -53,3 +66,7 @@
 * Passenger gets out, collect case and gest back in
 * Drive to shopping centre underground carpark and hide from police [Map](##ss##)
 * Return briefcase to planning room when police are gone.
+
+## Finale:
+* Roles: Prison Officer should have good guns and armour. Prisoner needs some armour
+Pilot needs to be familar with basic flying, and Demolitionist should be good with combat helicopters.
