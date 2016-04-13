@@ -1,9 +1,9 @@
 # Heist 2: The Prison Break
 ## Setup 1: Plane
 ### Roles
-**Pilot** - Needs to be good at flying, have reasonable armor and health - likely to take a few hits
-**Ground Team** - Should be semi-decent at combat, AP Pistol or Micro SMG suggested
-*Cars* - Minimum of 1 Karuma, 3 to 4 Karumas preferred.
+* **Pilot** - Needs to be good at flying, have reasonable armor and health - likely to take a few hits
+* **Ground Team** - Should be semi-decent at combat, AP Pistol or Micro SMG suggested
+* *Cars* - Minimum of 1 Karuma, 3 to 4 Karumas preferred.
 
 
 ###The Mission
