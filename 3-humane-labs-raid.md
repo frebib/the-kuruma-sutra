@@ -2,11 +2,11 @@
 
 ## Setup 1: Key Codes
 ### Setup
-**South Lookout** - Grenade/Rocket Launcher to blow up cars, machine gun such as Special Carbine for ranged combat, lots of armour.
-**North Lookout** - Rifle such as Special Carbine or Advanced Rifle, lots of armour.
-**Buyer & Bodyguard** - Lots of armour, MG or Assault Rifle
-*Cars* - As fast as possible!
-Before the mission, both buyer and bodyguard pair and the Lookout pair should agree who drives. (One driver per pair)
+**South Lookout** - Grenade/Rocket Launcher to blow up cars, machine gun such as Special Carbine for ranged combat, lots of armour.  
+**North Lookout** - Rifle such as Special Carbine or Advanced Rifle, lots of armour.  
+**Buyer & Bodyguard** - Lots of armour, MG or Assault Rifle  
+*Cars* - As fast as possible!  
+Before the mission, both buyer and bodyguard pair and the Lookout pair should agree who drives. (One driver per pair)  
 
 ### The Mission
 1. Take the cars to the way point. Get in position, and wait for the best cut scen ever. ("Oh no the FIB what are these clowns doing here!")
