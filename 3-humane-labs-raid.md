@@ -9,7 +9,7 @@
 
 ## Setup 2: Insurgents
 ### Setup
-Ideally these roles should be decided before arriving at the quarry  
+*Ideally these roles should be decided before arriving at the quarry*  
 **Drivers** Two team members to drive the two Insurgents  
 **Gunner** Should have good accuracy and experience with turret  
 *Cars* 4 Karumas (minimum of 2) to drive up to the location  
