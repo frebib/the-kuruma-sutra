@@ -1,5 +1,5 @@
 # The Pacific Standard Job
-## Setup 1: Vans 
+## Setup 1: Vans
 * One team golf course, del perro pier
 * One team by Simeon's dealership, just round the corner near central plaza
 
@@ -7,12 +7,12 @@
 * Take three cars to inlet – 2 Kuruma + 1 four seater
 * Drop Kurumas off at waters edge (gravel beach) – take third car to edge of sea, get on speedsharks
 * Take speedsharks to island
-* Get out on closest side, shoot down all helicopters 
+* Get out on closest side, shoot down all helicopters
 * Murderize all =- including boats around island!
 * One person goes to hut, gets Avi
 * Shoot down heli BEFORE get in boat
 * Take the boat under the bridge, and up the river back to the Kurumas
-* DO NOT beach the boat – if it explodes, it will fail you. 
+* DO NOT beach the boat – if it explodes, it will fail you.
 * Take the Kurumas (3 + avi in one, one in the other up the river-side, follow the yellow route until you get near to the farms
 * As soon as your objective changes to lose the cops (at about 0.68 miles from target), divert up the mountain. [screenshot](url)
 * The car without Avi in stays lower down the mountain, and shoot down helis.
@@ -35,7 +35,7 @@
 * Follow waypoint to bridge
 * Park Kurumas to form blockade at near end of bridge leave gap – if any vehiclkes clear bridge
 * Snipe helicopter that appears, blow it up, has autopilot!
-* Lay stickies at second line on bridge (screenshot) 
+* Lay stickies at second line on bridge (screenshot)
 * Get in Kurumas, wait for convoy
 * Do not open fire before blowing stickies
 * Detonate stickies when front jeep is in line with them
@@ -48,7 +48,7 @@
 * Park the truck in the barn to finish.
 
 ## Setup 5: Bikes
-* Take between 1 and 2 Kurumas. 
+* Take between 1 and 2 Kurumas.
 * Follow the waypoint to the lost MC clubhouse
 * Charge in in the Kurumas, and kill everyone inside. DO NOT use explosives, or you risk exploding the bikes. Be careful of the explosive gas tanks
 * When everything is dead, get out of the Kurumas, and everyone get on a bike. Wait for everyone to be on
@@ -70,14 +70,24 @@ The guide below is split into two parts. The first, where you use bugs to set up
 ### The Setup
 To begin, between the two people that have purchased the Apartment, decide who shall go for the helicopter, and who shall go for the 4 seater vehicle. The helicopter guy should be proficient with bikes, as a particularly difficult jump needs to be done. The two players not gathering a vehicle should go to the bank doors and wait. They are in the correct position if the objective at the bottom of their screen says "Wait for your team".
 
+#### Vehicle
+Take a fast car to scout for possible vehicles.  Your objective is to find a 4 seater vehicle that can take your team from outside the bank to the waiting helicopter.   
+Drive around LS to find a good vehicle. Good choices include the [Mule](http://gta.wikia.com/wiki/Mule) (in any livery), the [Rumpo](http://gta.wikia.com/wiki/Rumpo), either plain or in a Weazel News livery, or any large SUV such as the [Beejay XL](http://gta.wikia.com/wiki/BeeJay_XL), [Dubsta](http://gta.wikia.com/wiki/Dubsta) or [Gresley](http://gta.wikia.com/wiki/Gresley).
+
+Once you have found a vehicle, take it outside the garage at your apartment at Las Lagunas Blvd [here]() ([Map]()).   
+ Enter your garage for around 5 seconds, then leave. Stay on foot, leaving the vehicle where it is.   
+ Turn left out of the garage alley, and run towards the Post-Op building. Turn right, then follow the alley to its end. Turn left out of the alley and run up the hill to the Pacific Standard bank. Join your teammates outside the door and wait for the Helicopter player to finish.   
+
 #### Helicopter
-Take a bike that can wheelie. The BF400 is recommended if you have it, as it's speed and wheelie ability makes the upcoming jump easier. 
-Drive the bike to this spot (here)[##LINK##] ( (map)[https://i.imgur.com/31XZBbm.png] ) and slow down! Drive slowly to the next intersection (marked by the player on the map), and look top the left. You should be able to see helicopter blades on the police building across the intersection. (It should appear next to the air conditioning unit in the centre of this image)[]. You may get a buzzard, police helicopter or something else. Any will work for this mission. 
-Turn left and head towards the next intersection, then turn right and head up onto the bridge. Line up with the change in facia with the Police building ((see here)[##LINK##]) and gun it. Start wheelie-ing around the last lane marker. You should hit the edge of the bridge and bounce onto the roof top. 
-Turn left and climb the ladder. Get into the helicopter, and fly it over to your apartment. 
-Land outside your garage ((here)[]) and then enter your garage. Watch out for the person with the vehicle, as you should arrive at around the same time! Stay in your garage for around 5 seconds, then exit the garage.
-At this point you need to wait for all three of your team mates to be outside the bank. It *MUST* say "Wait for your team." at the bottom of the screen for them. 
-Now for the fun part! Cause some chaos! Throw some grenades, use a minigun etc. Try and get a wanted level. You will fail the mission at this point. **THIS IS NORMAL!** At this point make sure you quick restart! 
+Take a bike that can wheelie. The BF400 offroad bike is recommended if you have it, as it's speed and wheelie ability makes the upcoming jump easier. Bikes that can do this jump include the Akuma, Bati 801 and Electro, though any bike that can have the front tire off the ground should do.    
+Drive the bike to this spot [here](https://i.imgur.com/78CKNNh.jpg) ([map](https://i.imgur.com/31XZBbm.png)) and slow down! Drive slowly to the next intersection (marked by the player on the map), and look top the left. You should be able to see helicopter blades on the police building across the intersection. [It should appear next to the air conditioning unit in the targeting reticle of this image](https://i.imgur.com/QPUUnmP.jpg). You may get a buzzard, police helicopter or something else. Any will work for this mission.    
+Turn left and head towards the next intersection, then turn right and head up onto the bridge. Line up with the change in facia with the Police building ([see here](https://i.imgur.com/rqmjnpv.jpg)) and gun it. Start wheelie-ing around the last lane marker. You should hit the edge of the bridge and bounce onto the roof top.    
+Turn left and climb the ladder. Get into the helicopter, and fly it over to your apartment.
+
+Land outside your garage ([here]()) and then enter your garage. Watch out for the person with the vehicle, as you should arrive at around the same time!   
+Stay in your garage for around 5 seconds, then exit the garage.   
+At this point you need to wait for all three of your team mates to be outside the bank. It *MUST* say "Wait for your team." at the bottom of the screen for them.    
+Now for the fun part! Cause some chaos! Throw some grenades, use a minigun etc. Try and get a wanted level. You will fail the mission at this point. **THIS IS NORMAL!** At this point make sure you quick restart!   
 
 * Hacker should be weakest shooter, demo next weakest, crowd control two strongest
 * Take any cars – you wont be using them for long! (Not Kurumas, they crash the game sometimes)
