@@ -1,4 +1,8 @@
 # The Pacific Standard Job
+
+### Tips and Tricks
+- For this heist, owning an apartment at *4 Integrity Way* in central LS works the best, or another close by like *3 Alta Street* puts you in the most optimal location, close enough to all setups and the finale.
+
 ## Setup 1: Vans 
 * One team golf course, del perro pier
 * One team by Simeon's dealership, just round the corner near central plaza
