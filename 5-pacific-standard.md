@@ -1,8 +1,4 @@
 # The Pacific Standard Job
-
-### Tips and Tricks
-- For this heist, owning an apartment at *4 Integrity Way* in central LS works the best, or another close by like *3 Alta Street* puts you in the most optimal location, close enough to all setups and the finale.
-
 ## Setup 1: Vans 
 * One team golf course, del perro pier
 * One team by Simeon's dealership, just round the corner near central plaza
@@ -65,7 +61,17 @@
 * Keep an eye on health and armour, but it’s not really worth shooting back!
 
 ## Finale
-*Prep for Kuruma exploit*
+**Last confirmed to be working: 27/07/2017**
+
+This strategy requires two people have purchased Apartment 4, Las Lagunas Blvd. This costs $126,000, which can be mostly earned by doing the setup missions preceeding this heist. It is a medium end appartment with a 6 car garage.   
+Due to specific bugs used by this method, it needs to be completed without quick restarting. Quick restarting at any point except where mentioned will cause you to lose the vehicles set up earlier in the heist.   
+The guide below is split into two parts. The first, where you use bugs to set up vehicles to be used later, and the second where you actually play the heist.
+
+### The Setup
+To begin, between the two people that have purchased the Apartment, decide who shall go for the helicopter, and who shall go for the 4 seater vehicle. The helicopter guy should be proficient with bikes, as a particularly difficult jump needs to be done. The two players not gathering a vehicle should go to the bank doors and wait. They are in the correct position if the objective at the bottom of their screen says "Wait for your team".
+
+#### Helicopter
+
 
 * Hacker should be weakest shooter, demo next weakest, crowd control two strongest
 * Take any cars – you wont be using them for long! (Not Kurumas, they crash the game sometimes)
