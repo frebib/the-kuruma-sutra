@@ -77,19 +77,19 @@ Take a fast car to scout for possible vehicles.  Your objective is to find a 4 s
 Drive around LS to find a good vehicle. Good choices include the [Mule](http://gta.wikia.com/wiki/Mule) (in any livery), the [Rumpo](http://gta.wikia.com/wiki/Rumpo), either plain or in a Weazel News livery, or any large SUV such as the [Beejay XL](http://gta.wikia.com/wiki/BeeJay_XL), [Dubsta](http://gta.wikia.com/wiki/Dubsta) or [Gresley](http://gta.wikia.com/wiki/Gresley).
 
 Once you have found a vehicle, take it outside the garage at your apartment at Las Lagunas Blvd [here]() ([Map]()).   
- Enter your garage for around 5 seconds, then leave. Stay on foot, leaving the vehicle where it is.   
- Turn left out of the garage alley, and run towards the Post-Op building. Turn right, then follow the alley to its end. Turn left out of the alley and run up the hill to the Pacific Standard bank. Join your teammates outside the door and wait for the Helicopter player to finish.   
+Enter your garage for around 5 seconds, then leave. Stay on foot, leaving the vehicle where it is.   
+Turn left out of the garage alley, and run towards the Post-Op building. Turn right at the end, then follow the alley to the road. Turn left out of the alley and run up the hill to the Pacific Standard bank. Join your teammates outside the door and wait for the Helicopter player to finish.   
 
 #### Helicopter
-Take a bike that can wheelie. The BF400 offroad bike is recommended if you have it, as it's speed and wheelie ability makes the upcoming jump easier. Bikes that can do this jump include the Akuma, Bati 801 and Electro, though any bike that can have the front tire off the ground should do.    
-Drive the bike to this spot [here](https://i.imgur.com/78CKNNh.jpg) ([map](https://i.imgur.com/31XZBbm.png)) and slow down! Drive slowly to the next intersection (marked by the player on the map), and look top the left. You should be able to see helicopter blades on the police building across the intersection. [It should appear next to the air conditioning unit in the targeting reticle of this image](https://i.imgur.com/QPUUnmP.jpg). You may get a buzzard, police helicopter or something else. Any will work for this mission.    
-Turn left and head towards the next intersection, then turn right and head up onto the bridge. Line up with the change in facia with the Police building ([see here](https://i.imgur.com/rqmjnpv.jpg)) and gun it. Start wheelie-ing around the last lane marker. You should hit the edge of the bridge and bounce onto the roof top.    
+Take a bike that can wheelie. The BF400 offroad bike is recommended if you have it, as it's speed and wheelie ability makes the upcoming jump easier. Bikes that can do this jump include the Akuma, Bati 801 and Lectro, though any bike that can have the front tire off the ground should do.    
+Drive the bike to this spot [here](https://i.imgur.com/78CKNNh.jpg) ([map](https://i.imgur.com/31XZBbm.png)) and slow down! Drive slowly to the next intersection (marked by the player on the linked map), and look to the left. You should be able to see helicopter blades on the police building across the intersection. It should appear next to the air conditioning unit in the targeting reticle of [this image](https://i.imgur.com/QPUUnmP.jpg). You may get a buzzard, police helicopter or something else. Any will work for this mission.    
+Turn left and then right at the next intersection and head up onto the bridge. Line up with the change in facia with the police building ([see here](https://i.imgur.com/rqmjnpv.jpg)) and gun it. Start wheelie-ing around the last dashed lane marker. You should hit the edge of the bridge and bounce onto the roof top.    
 Turn left and climb the ladder. Get into the helicopter, and fly it over to your apartment.
 
-Land outside your garage ([here]()) and then enter your garage. Watch out for the person with the vehicle, as you should arrive at around the same time!   
+Land outside your garage ([here]()) and then enter on foot. Watch out for the person with the vehicle, as you should arrive at around the same time!   
 Stay in your garage for around 5 seconds, then exit the garage.   
 At this point you need to wait for all three of your team mates to be outside the bank. It *MUST* say "Wait for your team." at the bottom of the screen for them.    
-Now for the fun part! Cause some chaos! Throw some grenades, use a minigun etc. Try and get a wanted level. You will fail the mission at this point. **THIS IS NORMAL!** At this point make sure you quick restart!   
+Now for the fun part! Cause some chaos! Throw some grenades, use a minigun etc. Do not damage the helicopter or vehicle set up by the other player! Try and get a wanted level. You will fail the mission at this point. **THIS IS NORMAL!** On the score screen, make sure you quick restart!   
 
 
 ### The Heist
@@ -98,31 +98,31 @@ The player that prepped the 4 seater vehicler should grab a personal vehicle, an
 While this is happening, the other three players should run to the outside of the bank. Once again, it should say "Wait for your team." at the bottom of the screen.   
 When everyone is on the trigger, drive the vehicle up and around the bank from behind ([route]()). Your goal is to park the vehicle directly in front of the bank doors. This will be important for some cover later on.   
 
-If done correctly, the entering the bank cutscene should play as normal for this heist. While in the bank, follow the heists objectives as normal, with one exception: The hacker should collect all the money on their own. This is to help prevent losses later on, as you lose money any time someone holding a full money bag takes damage.
+If done correctly, then the driver should be teleported out of the car,and directly into the first cutscene as normal for this heist. While in the bank, follow the heists objectives as normal, with one exception: The hacker should collect all the money on their own. This is to help prevent losses later on, as you lose money any time someone holding the money takes damage.
 
-#### Bank Interior
+#### Inside the bank
 
-> **Tip**: Crowd control can keep the meter high by making noise into their mic, or shooting near the hostages.
+> **Tip**: Crowd control can keep the intimidation meter high by making noise into their mic, or shooting near the hostages. Keep going between each of hostages to make sure they are all intimidated equally.
 
-Below is a step by step summary of movements to speed up the bank interior sections:
-* Kill the security guards, then Demolitionist should place the first charge on the gate.
-* Crowd control should use this time to get initial control of the hostages. Special carbines are recommended for scaring them, due to rate of fire and low spread.
-* While the gates open, Hacker should be shooting the top right corner of the gate. The bullets will fling the gate open as soon as possible, giving you more time for the tricky bits!  
-* When the first gate is down, one member of crowd control should head through the gate and get a gun on the tellers.
-* Demolitions should place the charge on the second gate, then head *up* the stairs to the left. They should cover this door as hostile guards will spawn every minute or so.
-* When the second gate is open, hacker should haead down the stairs. Kill the two guards down there, and head to the console at the end of the corridoor.
-* The sequence for the minigame is: My Computer, External Device, Bruteforce.exe . Complete the scrolling minigame.
-* After the cutscene of the bank vault opening, the Demolitionist will be teleported down. Place the final charge, then head back up to cover the stairs as before.
-* Hacker should now start grabbing money. There are two carts, you need to empty both as quickly as possible. Prepare your clicking finger!
-* After all the money has been collected, the Infulence bar the Crowd Control team will disappear. At this point, everyone should head to the entrance of the bank as quickly as possible.
+Below is a step by step summary of movements to speed up the section inside the bank:
+1. Kill the security guards as soon as you enter the bank. 
+2. Demolitionist should head to the waypoint and place the first charge on the gate.
+3. Crowd control should use this time to get initial control of the hostages. Special carbines are recommended for intimidating them, due to rate of fire and low spread.
+4. While the gates are opening, Hacker should be shooting the top right corner of each gate. The bullets will fling the gate open as soon as possible, giving you more time for the tricky bits!  
+5. When the first gate is down, one member of Crowd Control should head through the gate and get a gun on the tellers.
+6. Demolitionist should place the charge on the second gate, then head *up* the stairs to the left of the second gate. They should cover the door at the top of the stairs, as hostile guards will spawn every minute or so from the room within.
+7. When the second gate is open, Hacker should head down the stairs. Kill the two guards down there, and head to the console at the end of the corridor.
+8. The sequence for the hacking minigame is: My Computer, External Device, Bruteforce.exe. Complete the scrolling minigame.
+9. After the cutscene of the bank vault opening, the Demolitionist will be teleported down. Place the final charge on the gate, then head back up to cover the stairs as before.
+10. Hacker should now start grabbing money. There are two carts, you need to empty both as quickly as possible. Prepare your clicking finger!
+11. After all the money has been collected, the intimidation bar the Crowd Control team has will disappear. At this point, everyone should head to the entrance of the bank as quickly as possible.
 
-At this point the cutscene will play showing the outside of the bank. Do not panic as your vehicle set up earlier will not be in this cutscene!
+When everyone is back at the entrance, a cutscene will play showing the outside of the bank. Do not panic - your vehicle set up earlier will not be in this cutscene!
 
 #### The Escape
 From now on the Hacker, who is carrying the money, should typically stay back and out the way of enemies.   
-The hacker should stay in the bank until the next bit is clear.   
 
-Be ready for a fight when you exit the bank. Both crowd control and the demolitionist should exit the bank and clear the police cars. You can use the vehicle, that should be directly in front of the doors, for cover if needed.   
+Be ready for a fight when you exit the bank. Both crowd control and the demolitionist should exit the bank and clear the police cars, while the Hacker stays in the bank until the coast is clear. You can use the vehicle, that should be directly in front of the doors, for cover if needed.   
 One player should take the two police cars on the left in the distance, preferably with an RPG or homing launcher.   
 Another should take the cars directly oposite the bank door. A grenade launcher is the best for this, as it clears the cars and the NPCs taking cover behind them.   
 The third player should clear the NPCs near and to the right of the bank door. Be careful here, as using explosives may damage or destroy your vehicle and make your life a lot more difficult!
@@ -133,7 +133,7 @@ When the coast is clear, everyone should get into the car. Follow the way points
 Feel free to shoot back during this bit, the less people shooting at you the less chance you have of getting hit! ;)   
 When crossing the road, be careful of the Police cars that come from either side. They can trap you very easily, causing you to lose valuable time and money.   
 
-Drive through the barrier and park the van in the entrance to the alley where the bikes have been left ([picture]()). One player should head to the bikes, and place a Sticky Bomb on every bike. **Do not detonate them yet!** Head back towards the helicopter.
+Turn left at the Post-Op building and drive through the barrier. Park the van in the entrance to the alley where the bikes have been left ([picture]()). One player should head to the bikes, and place a Sticky Bomb on every bike. **Do not detonate them yet!** Head back towards the helicopter.
 At the same time, the helicopter pilot should get in and spin the helicopter up, while the other two players stay outside and defend the helicopter from the police that will spawn.    
 Everyone should get in as soon as the Sticky-placer gets back. Take off and head north-west, over the roof of the Post-Op building and towards the reservoir ([picture]()).    
 At this point you will get an out of area warning. When this warning comes up, detonate the sticky bombs. This will confuse the game and a few seconds later, the out of area warning will go away.    
@@ -147,6 +147,6 @@ From here, fly down to the boat. land on the footpath on the left side of the ri
 
 > **Tip**: A GIF of the helicopter route is available [here](). Note the triggers skipping by at the bottom of the screen.
 
-Get out of the helicopter, and hop into the boat. Follow the waypoint out to sea. 
+Get out of the helicopter, and hop into the boat. Follow the waypoint through the canyon and out to sea. 
 
-**Congratulations, you have finished the Pacific Standard Heist! Watch the cheesy cut scene, then see if you completed the elite challenge! Enjoy your money!** 
+**Congratulations, you have finished the Pacific Standard Heist! Watch the cheesy cut scene, then see if you completed the elite challenge! As always, remember to bank your money when you return to free mode!** 
