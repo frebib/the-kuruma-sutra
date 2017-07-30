@@ -1,4 +1,18 @@
 # The Pacific Standard Job
+
+* [Setup 1: Vans](#setup-1-vans)
+* [Setup 2: Signal](#setup-2-signal)
+* [Setup 3: Hack](#setup-3-hack)
+* [Setup 4: Convoy](#setup-4-convoy)
+* [Setup 5: Bikes](#setup-5-bikes)
+* [Finale](#finale)
+  * [The Setup](#the-setup)
+    * [Vehicle](#vehicle)
+    * [Helicopter](#helicopter)
+  * [The Heist](#the-heist)
+    * [Inside the bank](#inside-the-bank)
+    * [The Escape](#the-escape)
+
 ## Setup 1: Vans
 * One team golf course, del perro pier
 * One team by Simeon's dealership, just round the corner near central plaza
