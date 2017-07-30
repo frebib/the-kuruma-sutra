@@ -63,6 +63,8 @@
 ## Finale
 **Last confirmed to be working: 27/07/2017**
 
+> **Tip:** Voice chat is very useful for this heist! There is many spots where people need to co-ordinate as much of this heist is time critical!
+
 This strategy requires two people have purchased Apartment 4, Las Lagunas Blvd. This costs $126,000, which can be mostly earned by doing the setup missions preceeding this heist. It is a medium end appartment with a 6 car garage.   
 Due to specific bugs used by this method, it needs to be completed without quick restarting. Quick restarting at any point except where mentioned will cause you to lose the vehicles set up earlier in the heist.   
 The guide below is split into two parts. The first, where you use bugs to set up vehicles to be used later, and the second where you actually play the heist.
@@ -98,9 +100,11 @@ When everyone is on the trigger, drive the vehicle up and around the bank from b
 
 If done correctly, the entering the bank cutscene should play as normal for this heist. While in the bank, follow the heists objectives as normal, with one exception: The hacker should collect all the money on their own. This is to help prevent losses later on, as you lose money any time someone holding a full money bag takes damage.
 
+#### Bank Interior
+
 > **Tip**: Crowd control can keep the meter high by making noise into their mic, or shooting near the hostages.
 
-Below is a quick summary of movements to speed up the bank interior sections:
+Below is a step by step summary of movements to speed up the bank interior sections:
 * Kill the security guards, then Demolitionist should place the first charge on the gate.
 * Crowd control should use this time to get initial control of the hostages. Special carbines are recommended for scaring them, due to rate of fire and low spread.
 * While the gates open, Hacker should be shooting the top right corner of the gate. The bullets will fling the gate open as soon as possible, giving you more time for the tricky bits!  
@@ -114,30 +118,35 @@ Below is a quick summary of movements to speed up the bank interior sections:
 
 At this point the cutscene will play showing the outside of the bank. Do not panic as your vehicle set up earlier will not be in this cutscene!
 
-> > * Hacker should be weakest shooter, demo next weakest, crowd control two strongest
-> > * Take any cars – you wont be using them for long! (Not Kurumas, they crash the game sometimes)
-> > * Drive to Pacific standard, enter bank.
-> > * Kill first two guards, demo places charge on door asap
-> > * As soon as first door done, place charge on second door
-> > * When second door done, Hack goes down stairs. Kill two guards at bottom of stairs
-> > * Demo, stay at top of upper staircase. Take out guards as they spawn, don’t let them down to vault.
-> > * After hacker hacks, demolitionist will be teleported down to the vault
-> > * One crowd controller should cover stairs for guard that emerges while demolitionist is away
-> > * Demolitionist put charge on gate, run back upstairs and subdue the remaining guards
-> > * Hacker to collect both trays of money
-> > * All meet back at bank entrance.
-> > * Two strongest shooters, not the one carrying money, should use grenade launcher to clear all police cars outside
-> > * All four make a break for alley.
-> > * Money-carrier should take complete cover. One cover back, two cover front.
-> > * Use grenade launcher and heavy machine guns to cover front
-> > * Trigger helicopter just past large cover area on the left, kill with missile
-> > * Kill all police and continue round corner
-> > * Destroy police car that rushes in and two sitting on road
-> > * All cross. One player watch back for car that appears after crossing road
-> > * Merc last car at end of alley
-> > * One player needs to clear the car that spawns behind after crossing
-> > * There is a chance for two cops to spawn around the house by the bikes.
-> > * Resupply armour, take bikes round left into the next corner.
-> > * Climb the bank, over the hedge & into the appartment
-> > * All move into the garage, into the Kuruma
-> > * Follow the western highway up to the boat and take out to sea
+#### The Escape
+From now on the Hacker, who is carrying the money, should typically stay back and out the way of enemies.   
+The hacker should stay in the bank until the next bit is clear.   
+
+Be ready for a fight when you exit the bank. Both crowd control and the demolitionist should exit the bank and clear the police cars. You can use the vehicle, that should be directly in front of the doors, for cover if needed.   
+One player should take the two police cars on the left in the distance, preferably with an RPG or homing launcher.   
+Another should take the cars directly oposite the bank door. A grenade launcher is the best for this, as it clears the cars and the NPCs taking cover behind them.   
+The third player should clear the NPCs near and to the right of the bank door. Be careful here, as using explosives may damage or destroy your vehicle and make your life a lot more difficult!
+
+> **Tip:** The Hacker can duck while in a vehicle, allowing them to take less hits! The button for this defaults to X on keyboard, and A on some controller layouts.
+
+When the coast is clear, everyone should get into the car. Follow the way points down the alley and across the road. Be careful here, as doing this bit in a car is kinda glitchy, so **make sure every member of your team hits every checkpoint!**  
+Feel free to shoot back during this bit, the less people shooting at you the less chance you have of getting hit! ;)   
+When crossing the road, be careful of the Police cars that come from either side. They can trap you very easily, causing you to lose valuable time and money.   
+
+Drive through the barrier and park the van in the entrance to the alley where the bikes have been left ([picture]()). One player should head to the bikes, and place a Sticky Bomb on every bike. **Do not detonate them yet!** Head back towards the helicopter.
+At the same time, the helicopter pilot should get in and spin the helicopter up, while the other two players stay outside and defend the helicopter from the police that will spawn.    
+Everyone should get in as soon as the Sticky-placer gets back. Take off and head north-west, over the roof of the Post-Op building and towards the reservoir ([picture]()).    
+At this point you will get an out of area warning. When this warning comes up, detonate the sticky bombs. This will confuse the game and a few seconds later, the out of area warning will go away.    
+**The tricky bit is now over, take a deep breath!**
+
+You now have a few minutes to breathe. Fly over towards Ratton Canyon, marked on the map.   
+
+As you approach Ratton Canyon, you will see a blue railway bridge. Fly under this, then head up the mountain on the right. This will hit through a few triggers.  
+Fly up towards the bridge, and fly very close to the yellow marker on top of one of the hill ([picture]()). When you hit this trigger, you should instantly lose your wanted level.   
+From here, fly down to the boat. land on the footpath on the left side of the river, next to the boat. 
+
+> **Tip**: A GIF of the helicopter route is available [here](). Note the triggers skipping by at the bottom of the screen.
+
+Get out of the helicopter, and hop into the boat. Follow the waypoint out to sea. 
+
+**Congratulations, you have finished the Pacific Standard Heist! Watch the cheesy cut scene, then see if you completed the elite challenge! Enjoy your money!** 
