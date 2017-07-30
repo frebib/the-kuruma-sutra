@@ -89,30 +89,55 @@ Stay in your garage for around 5 seconds, then exit the garage.
 At this point you need to wait for all three of your team mates to be outside the bank. It *MUST* say "Wait for your team." at the bottom of the screen for them.    
 Now for the fun part! Cause some chaos! Throw some grenades, use a minigun etc. Try and get a wanted level. You will fail the mission at this point. **THIS IS NORMAL!** At this point make sure you quick restart!   
 
-* Hacker should be weakest shooter, demo next weakest, crowd control two strongest
-* Take any cars – you wont be using them for long! (Not Kurumas, they crash the game sometimes)
-* Drive to Pacific standard, enter bank.
-* Kill first two guards, demo places charge on door asap
-* As soon as first door done, place charge on second door
-* When second door done, Hack goes down stairs. Kill two guards at bottom of stairs
-* Demo, stay at top of upper staircase. Take out guards as they spawn, don’t let them down to vault.
-* After hacker hacks, demolitionist will be teleported down to the vault
-* One crowd controller should cover stairs for guard that emerges while demolitionist is away
-* Demolitionist put charge on gate, run back upstairs and subdue the remaining guards
-* Hacker to collect both trays of money
-* All meet back at bank entrance.
-* Two strongest shooters, not the one carrying money, should use grenade launcher to clear all police cars outside
-* All four make a break for alley.
-* Money-carrier should take complete cover. One cover back, two cover front.
-* Use grenade launcher and heavy machine guns to cover front
-* Trigger helicopter just past large cover area on the left, kill with missile
-* Kill all police and continue round corner
-* Destroy police car that rushes in and two sitting on road
-* All cross. One player watch back for car that appears after crossing road
-* Merc last car at end of alley
-* One player needs to clear the car that spawns behind after crossing
-* There is a chance for two cops to spawn around the house by the bikes.
-* Resupply armour, take bikes round left into the next corner.
-* Climb the bank, over the hedge & into the appartment
-* All move into the garage, into the Kuruma
-* Follow the western highway up to the boat and take out to sea
+
+### The Heist
+Now for the actual heist! After you quick restart, you will appear outside the bank. From this point on the timer is on, doing in it under 10:15 will net each player a $100,000 bonus.  
+The player that prepped the 4 seater vehicler should grab a personal vehicle, and drive over to where it was stashed. If the setups have been done correctly, the helicpoter and vehicle should be exactly where you left them!   
+While this is happening, the other three players should run to the outside of the bank. Once again, it should say "Wait for your team." at the bottom of the screen.   
+When everyone is on the trigger, drive the vehicle up and around the bank from behind ([route]()). Your goal is to park the vehicle directly in front of the bank doors. This will be important for some cover later on.   
+
+If done correctly, the entering the bank cutscene should play as normal for this heist. While in the bank, follow the heists objectives as normal, with one exception: The hacker should collect all the money on their own. This is to help prevent losses later on, as you lose money any time someone holding a full money bag takes damage.
+
+> **Tip**: Crowd control can keep the meter high by making noise into their mic, or shooting near the hostages.
+
+Below is a quick summary of movements to speed up the bank interior sections:
+* Kill the security guards, then Demolitionist should place the first charge on the gate.
+* Crowd control should use this time to get initial control of the hostages. Special carbines are recommended for scaring them, due to rate of fire and low spread.
+* While the gates open, Hacker should be shooting the top right corner of the gate. The bullets will fling the gate open as soon as possible, giving you more time for the tricky bits!  
+* When the first gate is down, one member of crowd control should head through the gate and get a gun on the tellers.
+* Demolitions should place the charge on the second gate, then head *up* the stairs to the left. They should cover this door as hostile guards will spawn every minute or so.
+* When the second gate is open, hacker should haead down the stairs. Kill the two guards down there, and head to the console at the end of the corridoor.
+* The sequence for the minigame is: My Computer, External Device, Bruteforce.exe . Complete the scrolling minigame.
+* After the cutscene of the bank vault opening, the Demolitionist will be teleported down. Place the final charge, then head back up to cover the stairs as before.
+* Hacker should now start grabbing money. There are two carts, you need to empty both as quickly as possible. Prepare your clicking finger!
+* After all the money has been collected, the Infulence bar the Crowd Control team will disappear. At this point, everyone should head to the entrance of the bank as quickly as possible.
+
+At this point the cutscene will play showing the outside of the bank. Do not panic as your vehicle set up earlier will not be in this cutscene!
+
+> > * Hacker should be weakest shooter, demo next weakest, crowd control two strongest
+> > * Take any cars – you wont be using them for long! (Not Kurumas, they crash the game sometimes)
+> > * Drive to Pacific standard, enter bank.
+> > * Kill first two guards, demo places charge on door asap
+> > * As soon as first door done, place charge on second door
+> > * When second door done, Hack goes down stairs. Kill two guards at bottom of stairs
+> > * Demo, stay at top of upper staircase. Take out guards as they spawn, don’t let them down to vault.
+> > * After hacker hacks, demolitionist will be teleported down to the vault
+> > * One crowd controller should cover stairs for guard that emerges while demolitionist is away
+> > * Demolitionist put charge on gate, run back upstairs and subdue the remaining guards
+> > * Hacker to collect both trays of money
+> > * All meet back at bank entrance.
+> > * Two strongest shooters, not the one carrying money, should use grenade launcher to clear all police cars outside
+> > * All four make a break for alley.
+> > * Money-carrier should take complete cover. One cover back, two cover front.
+> > * Use grenade launcher and heavy machine guns to cover front
+> > * Trigger helicopter just past large cover area on the left, kill with missile
+> > * Kill all police and continue round corner
+> > * Destroy police car that rushes in and two sitting on road
+> > * All cross. One player watch back for car that appears after crossing road
+> > * Merc last car at end of alley
+> > * One player needs to clear the car that spawns behind after crossing
+> > * There is a chance for two cops to spawn around the house by the bikes.
+> > * Resupply armour, take bikes round left into the next corner.
+> > * Climb the bank, over the hedge & into the appartment
+> > * All move into the garage, into the Kuruma
+> > * Follow the western highway up to the boat and take out to sea
