@@ -90,29 +90,49 @@ To begin, between the two people that have purchased the Apartment, decide who s
 Take a fast car to scout for possible vehicles.  Your objective is to find a 4 seater vehicle that can take your team from outside the bank to the waiting helicopter.   
 Drive around LS to find a good vehicle. Good choices include the [Mule](http://gta.wikia.com/wiki/Mule) (in any livery), the [Rumpo](http://gta.wikia.com/wiki/Rumpo), either plain or in a Weazel News livery, or any large SUV such as the [Beejay XL](http://gta.wikia.com/wiki/BeeJay_XL), [Dubsta](http://gta.wikia.com/wiki/Dubsta) or [Gresley](http://gta.wikia.com/wiki/Gresley).
 
-Once you have found a vehicle, take it outside the garage at your apartment at Las Lagunas Blvd [here]() ([Map]()).   
+Once you have found a vehicle, take it outside the garage at your apartment at Las Lagunas Blvd.   
+![Vehicle Positioning](img/pacific/VanGarage.jpg) ![Vehicle Map](img/pacific/garagemap.png)
 Enter your garage for around 5 seconds, then leave. Stay on foot, leaving the vehicle where it is.   
 Turn left out of the garage alley, and run towards the Post-Op building. Turn right at the end, then follow the alley to the road. Turn left out of the alley and run up the hill to the Pacific Standard bank. Join your teammates outside the door and wait for the Helicopter player to finish.   
 
 #### Helicopter
-Take a bike that can wheelie. The BF400 offroad bike is recommended if you have it, as it's speed and wheelie ability makes the upcoming jump easier. Bikes that can do this jump include the Akuma, Bati 801 and Lectro, though any bike that can have the front tire off the ground should do.    
-Drive the bike to this spot [here](https://i.imgur.com/78CKNNh.jpg) ([map](https://i.imgur.com/31XZBbm.png)) and slow down! Drive slowly to the next intersection (marked by the player on the linked map), and look to the left. You should be able to see helicopter blades on the police building across the intersection. It should appear next to the air conditioning unit in the targeting reticle of [this image](https://i.imgur.com/QPUUnmP.jpg). You may get a buzzard, police helicopter or something else. Any will work for this mission.    
-Turn left and then right at the next intersection and head up onto the bridge. Line up with the change in facia with the police building ([see here](https://i.imgur.com/rqmjnpv.jpg)) and gun it. Start wheelie-ing around the last dashed lane marker. You should hit the edge of the bridge and bounce onto the roof top.    
+Take a bike that can wheelie. The BF400 offroad bike is recommended if you have it, as it's speed and wheelie ability makes the upcoming jump easier. Bikes that can do this jump include the Akuma, Bati 801 and Lectro, though any bike that can have the front tire off the ground should do.   
+ 
+Drive the bike to the spot below  ([map](img/pacific/BikeStartMap.png)) and slow down!   
+![Bike Start Position](img/pacific/BikeStart.jpg)
+
+Drive slowly to the next intersection (marked by the player on the linked map), and look to the left. You should be able to see helicopter blades on the police building across the intersection. It should appear next to the air conditioning unit in the targeting reticle of [this image](img/pacific/HeliSpawn.jpg). You may get a buzzard, police helicopter or something else. Any will work for this mission.   
+ 
+Turn left and then right at the next intersection and head up onto the bridge. Line up with the change in facia with the police building ([see here](img/pacific/BikeLineup.jpg)) and gun it. Start wheelie-ing around the last dashed lane marker. You should hit the edge of the bridge and bounce onto the roof top, as below. Click the gif for an HD version.    
+[![Bike Jump Gif](img/pacific/bikejump.gif)](img/pacific/bikejump.webm)
+
+
 Turn left and climb the ladder. Get into the helicopter, and fly it over to your apartment.
 
-Land outside your garage ([here]()) and then enter on foot. Watch out for the person with the vehicle, as you should arrive at around the same time!   
+Land outside your garage as in the image below, and then enter on foot. Watch out for the person with the vehicle, as you should arrive at around the same time!   
+![Helicopter Positioning](img/pacific/HeliGarage.jpg)
+
+
 Stay in your garage for around 5 seconds, then exit the garage.   
-At this point you need to wait for all three of your team mates to be outside the bank. It *MUST* say "Wait for your team." at the bottom of the screen for them.    
+At this point you need to wait for all three of your team mates to be outside the bank. It *MUST* say "Wait for your team." at the bottom of the screen for them.   
+ 
 Now for the fun part! Cause some chaos! Throw some grenades, use a minigun etc. Do not damage the helicopter or vehicle set up by the other player! Try and get a wanted level. You will fail the mission at this point. **THIS IS NORMAL!** On the score screen, make sure you quick restart!   
 
 
 ### The Heist
 Now for the actual heist! After you quick restart, you will appear outside the bank. From this point on the timer is on, doing in it under 10:15 will net each player a $100,000 bonus.  
+
 The player that prepped the 4 seater vehicler should grab a personal vehicle, and drive over to where it was stashed. If the setups have been done correctly, the helicpoter and vehicle should be exactly where you left them!   
 While this is happening, the other three players should run to the outside of the bank. Once again, it should say "Wait for your team." at the bottom of the screen.   
-When everyone is on the trigger, drive the vehicle up and around the bank from behind ([route]()). Your goal is to park the vehicle directly in front of the bank doors. This will be important for some cover later on.   
 
-If done correctly, then the driver should be teleported out of the car,and directly into the first cutscene as normal for this heist. While in the bank, follow the heists objectives as normal, with one exception: The hacker should collect all the money on their own. This is to help prevent losses later on, as you lose money any time someone holding the money takes damage.
+When everyone is on the trigger, drive the vehicle up and around the bank from behind (route marked below). Your goal is to park the vehicle directly in front of the bank doors. This will be important for some cover later on.  
+ 
+![Van Route](img/pacific/CarRoute.png)  
+ 
+The vehicle should be parked directly outside the bank, as below:   
+![Van Bank Position](img/pacific/VanBank.jpg)
+
+If done correctly, then the driver should be teleported out of the vehicle, and directly into the first cutscene as normal for this heist. While in the bank, follow the heists objectives as normal, with one exception: The hacker should collect all the money on their own. This is to help prevent losses later on, as you lose money any time someone holding the money takes damage.
 
 #### Inside the bank
 
@@ -147,9 +167,11 @@ When the coast is clear, everyone should get into the car. Follow the way points
 Feel free to shoot back during this bit, the less people shooting at you the less chance you have of getting hit! ;)   
 When crossing the road, be careful of the Police cars that come from either side. They can trap you very easily, causing you to lose valuable time and money.   
 
-Turn left at the Post-Op building and drive through the barrier. Park the van in the entrance to the alley where the bikes have been left ([picture]()). One player should head to the bikes, and place a Sticky Bomb on every bike. **Do not detonate them yet!** Head back towards the helicopter.
+Turn left at the Post-Op building and drive through the barrier. Park the van in the entrance to the alley where the bikes have been left ([picture](####)). One player should head to the bikes, and place a Sticky Bomb on every bike. **Do not detonate them yet!** Head back towards the helicopter.
 At the same time, the helicopter pilot should get in and spin the helicopter up, while the other two players stay outside and defend the helicopter from the police that will spawn.    
-Everyone should get in as soon as the Sticky-placer gets back. Take off and head north-west, over the roof of the Post-Op building and towards the reservoir ([picture]()).    
+Everyone should get in as soon as the Sticky-placer gets back. Take off and head north-west, over the roof of the Post-Op building and towards the reservoir.       
+![Helciopter over Post-Op building](img/pacific/HeliRoute.jpg)
+
 At this point you will get an out of area warning. When this warning comes up, detonate the sticky bombs. This will confuse the game and a few seconds later, the out of area warning will go away.    
 **The tricky bit is now over, take a deep breath!**
 
